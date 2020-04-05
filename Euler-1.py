@@ -37,5 +37,5 @@ for a0 in range(t):
     print(d)
     c= 3*a*(a+1)//2 + 5*b*(b+1)//2 - 15*d*(d+1)//2
     print(3*a*(a+1)//2,5*b*(b+1)//2,15*d*(d+1)//2)
-    print(c)
+    print(c) #print the answer
     
