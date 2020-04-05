@@ -1,4 +1,4 @@
-t = int(input().strip())
+t = int(input().strip()) #take input
 for a0 in range(t):
     n = int(input().strip())
 
